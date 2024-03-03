@@ -1,1 +1,4 @@
-initial commit
+# TIMETRACKER
+## Приложение для тайм менеджмента
+
+C#, .NET
